@@ -1,4 +1,4 @@
-time (UTC),G (W/m^2),Tamb (C),charge rate,discharge rate,Tb,SOC,SOH/ any degradation measure
+time,G (W/m^2),Tamb (C),charge rate,discharge rate,Tb,SOC,SOH/ any degradation measure
 01/01/2019 0:00,0,7.784,,,,,
 01/01/2019 1:00,0,7.983,,,,,
 01/01/2019 2:00,0,8.088,,,,,
